@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "To accommodate load-bearing in thermal barrier coatings, which types of grains are preferred:",
+      "question": "1. To accommodate load-bearing in thermal barrier coatings, which types of grains are preferred:",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
        {
-      "question": "Following is an example of which type of grain: <br> <img src=\"images/img_1.png\">",
+      "question": "2. Following is an example of which type of grain: <br> <img src=\"images/img_1.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain: <br>  <img src=\"images/img_2.png\">",
+      "question": "3. Following is an example of which type of grain: <br>  <img src=\"images/img_2.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain:  <br> <img src=\"images/img_3.png\">",
+      "question": "4. Following is an example of which type of grain:  <br> <img src=\"images/img_3.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain: <br>  <img src=\"images/img_4.png\">",
+      "question": "5. Following is an example of which type of grain: <br>  <img src=\"images/img_4.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
