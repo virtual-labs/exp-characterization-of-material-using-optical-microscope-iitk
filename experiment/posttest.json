@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
        {
-      "question": "Following is an example of which type of grain: <img src=\"images/img_1.png\">",
+      "question": "Following is an example of which type of grain: <br> <img src=\"images/img_1.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain: <img src=\"images/img_2.png\">",
+      "question": "Following is an example of which type of grain: <br>  <img src=\"images/img_2.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain: <img src=\"images/img_3.png\">",
+      "question": "Following is an example of which type of grain:  <br> <img src=\"images/img_3.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Following is an example of which type of grain: <img src=\"images/img_4.png\">",
+      "question": "Following is an example of which type of grain: <br>  <img src=\"images/img_4.png\">",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
