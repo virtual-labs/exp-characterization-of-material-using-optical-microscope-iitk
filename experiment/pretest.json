@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Grain boundary has a dimension of: ",
+      "question": "1. Grain boundary has a dimension of: ",
       "answers": {
         "a": "Point like entity",
         "b": "1-dimensional line",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
        {
-      "question": "Fine grain size usually result: ",
+      "question": "2. Fine grain size usually result: ",
       "answers": {
         "a": "high strength and high toughness",
         "b": "high strength and low toughness",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "During fatigue,",
+      "question": "3. During fatigue,",
       "answers": {
         "a": "fine grain promote crack initiation, whereas coarse grain resist crack propagation",
         "b": "fine grain promote crack initiation, and coarse grain promote crack propagation",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Pearlite structure of steel has which type of grains: ",
+      "question": "4. Pearlite structure of steel has which type of grains: ",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
         {
-      "question": "Cast structure showing constitutional supercooling typically will result which grain-structure: ",
+      "question": "5. Cast structure showing constitutional supercooling typically will result which grain-structure: ",
       "answers": {
         "a": "Equiaxed grains ",
         "b": "Columnar grains",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
      {
-      "question": "Martensitic grain structure is typically exhibits which grain structure?",
+      "question": "6. Martensitic grain structure is typically exhibits which grain structure?",
       "answers": {
         "a": "Equiaxed grains",
         "b": "Columnar grains",
