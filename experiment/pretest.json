@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Grain boundary has a dimension of: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Point like entity",
+        "b": "1-dimensional line",
+        "c": "2-dimentional surface",
+        "d": "3-dimensional volume"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "Fine grain size usually result: ",
+      "answers": {
+        "a": "high strength and high toughness",
+        "b": "high strength and low toughness",
+        "c": "low strength and high toughness",
+        "d": "low strength and low toughness"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+        {
+      "question": "During fatigue,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "fine grain promote crack initiation, whereas coarse grain resist crack propagation",
+        "b": "fine grain promote crack initiation, and coarse grain promote crack propagation",
+        "c": "fine grain resist crack initiation, and coarse grain resist crack propagation",
+        "d": "fine grain resist crack initiation, whereas coarse grain promote crack propagation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "Pearlite structure of steel has which type of grains: ",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "Cast structure showing constitutional supercooling typically will result which grain-structure: ",
+      "answers": {
+        "a": "Equiaxed grains ",
+        "b": "Columnar grains",
+        "c": "Lamellar",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Martensitic grain structure is typically exhibits which grain structure?",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Bimodal grains",
+        "d": "Lath-type grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
