@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "To accommodate load-bearing in thermal barrier coatings, which types of grains are preferred:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar grains",
+        "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "Following is an example of which type of grain: <img src=\"images/img_1.png\">",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar grains",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+        {
+      "question": "Following is an example of which type of grain: <img src=\"images/img_2.png\">",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar grains",
+        "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "Following is an example of which type of grain: <img src=\"images/img_3.png\">",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar grains",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "Following is an example of which type of grain: <img src=\"images/img_4.png\">",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar grains",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
