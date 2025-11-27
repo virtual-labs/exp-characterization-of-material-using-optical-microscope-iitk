@@ -43,7 +43,7 @@ composition, or throwing of solute in the liquid, during the range of solidifica
 Figure 6: Formation of dendrites (or tree-like structure) due to constitutional undercooling in an allow.<br>
 
 <b>6. Lath type grains </b><br>
-Small packets/blocks are formed within a coarse structure (i.e. martensite forming as laths in a prior austenite grains) that can be fine (~~50-500 nm) or coarse (few µm thick), Fig. 7a, that are large and 
+Small packets/blocks are formed within a coarse structure (i.e. martensite forming as laths in a prior austenite grains) that can be fine (\~50-500 nm) or coarse (few µm thick), Fig. 7a, that are large and 
 boundary-free regions. Lath structures align parallel to one another across a large region and provide a characteristic microstructure. The morphology of these blocks becomes fine (≈200-500 nm), Fig. 7b 
 with increasing carbon content (up to 0.8%C), and becomes difficult to resolve in optical microscope. Further, the strength and toughness of martensitic steel is strongly governed by the size of the lath. <br>
 <img src= "images/img_11.png"><br>
