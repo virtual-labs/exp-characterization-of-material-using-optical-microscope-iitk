@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science 
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> 
+<b> Experiment|     <b> Characterization of material (metal, ceramics) using optical microscope
 ### About the Experiment 
 
 
