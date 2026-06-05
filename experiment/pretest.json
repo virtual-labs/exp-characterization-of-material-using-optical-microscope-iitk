@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Grain boundary has a dimension of: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Point like entity",
+        "b": "1-dimensional line",
+        "c": "2-dimentional surface",
+        "d": "3-dimensional volume"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Grain boundaries are not point defects; they extend over a region between grains rather than being localized points.",
+  "b": "Incorrect – A grain boundary is not a one-dimensional line; it separates grains over an area in a material.",
+  "c": "Correct – Grain boundaries are two-dimensional defects because they form interfaces (surfaces) between adjacent crystals or grains.",
+  "d": "Incorrect – Grain boundaries do not occupy a volume like bulk phases; they are interfacial (surface) defects."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "2. Fine grain size usually result: ",
+      "answers": {
+        "a": "high strength and high toughness",
+        "b": "high strength and low toughness",
+        "c": "low strength and high toughness",
+        "d": "low strength and low toughness"
       },
+      "explanations": {
+        "a": "Correct – Fine grain size generally increases strength (Hall–Petch relationship) and also improves toughness by hindering crack propagation and allowing more uniform deformation.",
+  "b": "Incorrect – While fine grains increase strength, they do not reduce toughness; toughness usually improves or is maintained rather than becoming low.",
+  "c": "Incorrect – Fine grain size does not reduce strength; instead, smaller grains increase grain boundary area which strengthens the material.",
+  "d": "Incorrect – Fine grains do not lead to both low strength and low toughness; this contradicts the Hall–Petch effect."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+        {
+      "question": "3. During fatigue,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "fine grain promote crack initiation, whereas coarse grain resist crack propagation",
+        "b": "fine grain promote crack initiation, and coarse grain promote crack propagation",
+        "c": "fine grain resist crack initiation, and coarse grain resist crack propagation",
+        "d": "fine grain resist crack initiation, whereas coarse grain promote crack propagation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Fine grains do not promote crack initiation; instead, they generally help resist crack initiation. Also, coarse grains are not inherently better at resisting crack propagation.",
+  "b": "Incorrect – Fine grains do not promote crack initiation, and coarse grains do not specifically promote crack propagation in fatigue behavior.",
+  "c": "Incorrect – Coarse grains do not typically resist crack propagation better; fine grains are more effective in hindering both initiation and early propagation.",
+  "d": "Correct – Fine grains resist crack initiation due to more grain boundaries acting as barriers, while coarse grains tend to allow easier crack propagation, reducing fatigue resistance."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4. Pearlite structure of steel has which type of grains: ",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Lamellar",
+        "d": "Dendritic grains"
       },
+      "explanations": {
+        "a": "Incorrect – Equiaxed grains are roughly equal in all dimensions and are typical of many cast or recrystallized structures, but not specific to pearlite.",
+  "b": "Incorrect – Columnar grains are elongated grains formed during directional solidification, not characteristic of pearlite.",
+  "c": "Correct – Pearlite has a lamellar structure consisting of alternating layers (lamellae) of ferrite and cementite, giving it a layered appearance.",
+  "d": "Incorrect – Dendritic grains are tree-like solidification structures seen in casting, not in pearlite microstructure."
+},
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "5. Cast structure showing constitutional supercooling typically will result which grain-structure: ",
+      "answers": {
+        "a": "Equiaxed grains ",
+        "b": "Columnar grains",
+        "c": "Lamellar",
+        "d": "Dendritic grains"
+      },
+      "explanations": {
+        "a": "Incorrect – Equiaxed grains form under high nucleation conditions and relatively uniform cooling, not specifically due to constitutional supercooling.",
+  "b": "Incorrect – Columnar grains form when there is a strong directional temperature gradient and limited nucleation, not due to constitutional supercooling.",
+  "c": "Incorrect – Lamellar structure is characteristic of pearlite in steel, not related to cast solidification under constitutional supercooling.",
+  "d": "Correct – Constitutional supercooling leads to instability of the solid–liquid interface, promoting dendritic growth during solidification in cast structures."
+},
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "6. Martensitic grain structure is typically exhibits which grain structure?",
+      "answers": {
+        "a": "Equiaxed grains",
+        "b": "Columnar grains",
+        "c": "Bimodal grains",
+        "d": "Lath-type grains"
+      },
+      "explanations": {
+        "a": "Incorrect – Equiaxed grains are common in recrystallized or cast structures, not in martensite, which forms through a diffusionless transformation.",
+  "b": "Incorrect – Columnar grains are associated with directional solidification, not martensitic transformation in steels.",
+  "c": "Incorrect – Bimodal grains refer to a mixture of two distinct grain sizes, which is not characteristic of martensitic structure.",
+  "d": "Correct – Martensitic steel typically exhibits lath-type (or plate-like) grain/sub-grain structures formed by rapid, diffusionless transformation of austenite."
+},
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
