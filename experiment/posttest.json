@@ -10,10 +10,10 @@
         "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": "Incorrect – Equiaxed grains provide isotropic properties but are less effective in withstanding thermal gradients and load-bearing requirements in thermal barrier coatings.",
+        "b": "Correct – Columnar grains are preferred in thermal barrier coatings because they can accommodate thermal stresses, improve strain tolerance, and enhance load-bearing capability under high temperature gradients.",
+        "c": "Incorrect – Lamellar structures are typical of layered phases like pearlite and are not used for thermal barrier coating load-bearing design.",
+        "d": "Incorrect – Dendritic grains are solidification structures that are generally undesirable in coatings due to their non-uniform and brittle nature."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,11 +27,11 @@
         "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+         "a": "Correct – The image shows randomly oriented, roughly equal-sized grains in all directions, which is characteristic of equiaxed grain structure.",
+  "b": "Incorrect – Columnar grains are elongated and aligned in one direction, typically formed during directional solidification, which is not seen in the image.",
+  "c": "Incorrect – Lamellar structure consists of layered phases (like in pearlite), not polygonal grain shapes as shown here.",
+  "d": "Incorrect – Dendritic grains have tree-like branching patterns formed during solidification, which is not visible in this image."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect – Equiaxed grains are roughly equal in all directions and appear as polygonal shapes, not branching patterns.",
+  "b": "Incorrect – Columnar grains are elongated and aligned in one direction, but they do not show branching, tree-like structures.",
+  "c": "Incorrect – Lamellar grains consist of layered structures (like alternating phases), not dendritic branching patterns.",
+  "d": "Correct – The image shows dendritic grain structure characterized by tree-like branching patterns formed during solidification under non-uniform cooling conditions."
+},
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -61,10 +61,10 @@
         "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+       "a": "Incorrect — equiaxed grains are roughly equal in all directions and appear as uniform, polygonal grains, which is not shown in the 3D directional structure here.",
+  "b": "Correct — the image shows elongated grains growing in a preferred direction (parallel alignment), which is characteristic of columnar grains formed during directional solidification.",
+  "c": "Incorrect — lamellar grains refer to layered (plate-like) structures, not elongated directional grain growth.",
+  "d": "Incorrect — dendritic grains have tree-like branched structures, which are not represented in this image."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,11 +78,11 @@
         "d": "Dendritic grains"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+         "a": "Incorrect. Equiaxed grains are roughly equal in size in all directions — they look blocky or round, not elongated. These are typically found in the center of castings or after recrystallization.",
+         "b": "Correct! Columnar grains are long, narrow, and parallel — they grow in one direction (usually opposite to heat flow during solidification). The image clearly shows tall, elongated grain structures aligned in columns, which is the defining feature of columnar grains.",
+        "c": "Incorrect. Lamellar grains have a layered, alternating plate-like structure (like in pearlite in steel). They are not elongated columns but thin parallel layers of two different phases.",
+        "d": "Incorrect. Dendritic grains have a tree-branch-like structure with primary and secondary arms. They form during solidification but look like snowflakes or branches, not straight parallel columns."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
